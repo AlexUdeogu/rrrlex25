@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrrlex25
+- 👋 Hi, I’m @AlexUdeogu
 - 👀 I’m interested in learning programming/coding
 - 🌱 I’m currently in the university
 - 💞️ I’m looking to learn more about software development
